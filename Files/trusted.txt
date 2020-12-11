@@ -1,0 +1,5 @@
+18:35:D1:96:9E:E0,192.168.0.1,Arris Group,Ubee EVW3226 or Arris TG1672 or TG862G cable modem (Linux 2.6.18)
+C4:E9:84:3E:42:1C,192.168.0.13,Tp-link Technologies,Linux 2.6.23 - 2.6.38
+9C:5C:F9:50:FA:05,192.168.0.17,Sony Mobile Communications,OS not Available
+D6:E9:84:3E:42:1C,192.168.0.13,Manufacturer not Available,Linux 2.6.23 - 2.6.38
+C0:D2:DD:CB:5C:CD,192.168.0.26,Samsung Electronics,OS not Available

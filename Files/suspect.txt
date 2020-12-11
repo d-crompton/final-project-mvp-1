@@ -1,0 +1,2 @@
+Mac Address not Available,192.168.0.15,Manufacturer not Available,Microsoft Windows 10 1809 - 1909
+00:B5:D0:90:E0:BD,192.168.0.16,Samsung Electronics,OS not Available
